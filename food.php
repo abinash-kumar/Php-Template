@@ -1,0 +1,519 @@
+
+
+ 
+			<!DOCTYPE html>
+			<html lang="en">
+				
+				<head>				
+					<title></title>
+					<link rel="shortcut icon" href="images/50.png" type="image/x-icon" />
+					<meta name="description" content="" />
+					<meta name="keywords" content="" />
+						
+										<link rel="shortcut icon" href="images/baikunhlogo.jpg" />
+					<link rel="stylesheet" href="css/bootstrap.css">
+					<link rel="stylesheet" href="css/style.css">
+					<link rel="stylesheet" href="css/color3.css">
+					<link href="css/animate.min.css" rel="stylesheet">
+					<!-- Bootstrap Date-Picker Plugin -->
+					<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
+					<link href="https://fonts.googleapis.com/css?family=Maven+Pro|Quicksand:300" rel="stylesheet">
+					<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+					<!-- <link rel="stylesheet" href="css/w3.css">  -->
+					<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css"> 
+					<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+					<script src="js/jquery-3.1.1.min.js"></script>
+					<script src="js/bootstrap.min.js"></script>	  
+				</head>
+				
+				<body id="topID">
+					<div class="navbr">
+						<div class="myNav fram_width">
+							<a href="/"><div class="logo   flotLft">
+								<img src="images/baikunhlogo.png" />
+							</div></a>
+							
+							<div class="ffrc flotRt homeContct w230px text_upper mrgn_top" id="dropForm">
+								<a class="them_btn theme_bg_color"><span><i class="fa fa-bolt"></i>&nbsp;Book NOW</span></a>
+							</div>
+							
+							<ul class="flotLft navLst">
+								<li><a href="/about-us.html">About Us<hr></a>
+									<div class="dorpDwn">
+										<a href="/contact-us.html">Contact Us</a>
+										<a href="/food.html">Food & Beverages</a>
+										<a href="/our-clients.html">Our Clients</a>
+										<a href="/why-the-perch.html">Why Us</a>
+									</div>			
+								</li>
+								
+								<li><a href="">Our Facilities<hr></a></li>
+								
+								<li><a href="">Hotels in Himachal<hr></a>
+									<div class="dorpDwn">
+										<a href="/resorts-in-manali.html">Hotels in Manali</a>
+										<a href="/resorts-in-kasauli.html">Hotels in Kasauli</a>
+									</div>
+								</li>
+								
+								<a href="/"><li>Home<hr></li></a>
+							</ul>
+						</div>
+					</div>
+					
+
+			<section class="background_white slider">
+				<div class="w3-content w3-section" style="margin:0px ! important;overflow: hidden;max-height:500px !important;">
+													<div class= " mySlides">
+									<div class="slider_text" style="position:absolute; z-index:510;" class="">
+										 <div class="sldrTxt" >
+											Baikunth Hotel -Manali<br>
+											Premium Rooms										</div>
+									</div>
+									
+									<img class=" slider_image img-responsive" src="http://res.cloudinary.com/the-perch/image/upload/h_550,w_1500,c_fill/reputize/homepage-slider/2017-05-11_13-02-05.jpg" style="width:100%; " alt="Baikunth Hotel -Manali" />
+								</div>
+													<div class= " mySlides">
+									<div class="slider_text" style="position:absolute; z-index:510;" class="">
+										 <div class="sldrTxt" >
+											Baikunth Hotel - Kasauli<br>
+											Outside View										</div>
+									</div>
+									
+									<img class=" slider_image img-responsive" src="http://res.cloudinary.com/the-perch/image/upload/h_550,w_1500,c_fill/reputize/homepage-slider/2017-05-11_13-56-25.jpg" style="width:100%; " alt="Baikunth Hotel - Kasauli" />
+								</div>
+									</div>
+				<!--<div class="baaner">
+					<center>
+						<div class="bottomLbl">Welcome to Baikunth</div>
+					</center> 
+				</div>-->
+			</section>
+			
+			<br><br>
+
+			<div class="head fram_width"><h1 class="head">Baikunth welcomes you into the lap of the Himalayas</h1></div>
+			<div class="msgSectn">
+				<div class="fram_width">
+					<p ><p>Our exquisite resorts in <strong>Kasauli</strong> and <strong>Manali</strong> offer well-equipped rooms and spacious accommodation for a lavish stay. Thoughtfully appointed in the lap of nature, you can take in the bounties of mother earth in a relaxing and leisurely atmosphere. Any of the locations is the perfect getaway. Ideal for those times that you just want to get away from the hustle and bustle of the city and leave all your troubles and stress behind.</p></p>
+				</div>
+			</div>
+			<br><br><br><br>			
+			
+<!--		<div class="botm">
+				<div class="RCircle flot_lft"></div>
+				<hr class="hedingHr flot_lft">
+				<div class="RCircle flot_rt"></div>
+			</div>
+-->
+		<div class="hootspace fram_width">
+			<div class="cardList">
+				<div class="cardHTag">
+					MAKE YOUR VACATION COMFORTABLE
+				</div>
+				<section class="cardFxCntr">
+					<div class="fram_width setComn">
+						<div class='cardFx'>
+							<div class="flipr">
+								<div class="faIcon"> <i class="fa fa-thumbs-up"></i> </div>
+								<div class="cardFxTxt">
+									<p class="theme_text_color text_strach text_size_fa_card">Recreate Yourself</p>
+									<p class="fa_card_text">Revitalise yourself with Nature Walks, enjoy nature with day excursions and relax with picnics.</p>
+								</div>
+							</div>
+						</div>
+
+						<div class='cardFx'>
+							<div class="flipr">
+								<div class="faIcon"> <i class="fa fa-map-marker"></i> </div>
+								<div class="cardFxTxt">
+									<p class="theme_text_color text_strach text_size_fa_card">Homely Feeling</p>
+									<p class="fa_card_text">Baikunth has plenty of outdoor areas for you to explore and offers a host of rejuvenating & recreational facilities.</p>
+								</div>
+							</div>
+						</div>
+						
+						<div class='cardFx'>
+							<div class="flipr">
+								<div class="faIcon"><i class="fa fa-cutlery"></i> </div>
+								<div class="cardFxTxt">
+									<p class="theme_text_color text_strach text_size_fa_card">Multiple Cuisines</p>
+									<p class="fa_card_text">Choice of Indian, Chinese & Continental dishes at the restaurant prepared by experienced Chefs.</p>
+								</div>
+							</div>
+						</div>	
+						<div class='cardFx'>
+							<div class="flipr">
+								<div class="faIcon"> <i class="fa fa-building-o"></i> </div>
+								<div class="cardFxTxt">
+									<p class="theme_text_color text_strach text_size_fa_card">Feel the Luxury</p>
+									<p class="fa_card_text">Luxurious comfort in nature lap, with 10 well equipped Deluxe Rooms - perfect for you.</p>
+								</div>
+							</div>
+						</div>					
+					</div>
+				</section>				
+			</div>
+		</div>
+		
+	<div class="childHeadDiv">
+		<div class="head fram_width"><h1 class="head">We Understand You</h1></div>
+		<section class="fram_width proplistsec clear">
+			<div class="propContnr">
+				<div class="prop">
+					<center><img src="images/splhp-corporate-2017_05_04_06_36_13.jpg"/></center>
+					<div class="textHding clear">
+						<center>
+							<div style="margin-top: 10px;">
+								<div class="vrLin"></div>
+								<p class="hdng">RECREATE YOURSELF</p>
+							</div>							
+							<p class="para">Plenty of outdoor areas for you to explore and offers a host of rejuvenating & recreational facilities.</p>
+							<a class="them_btn theme_bg_color pull-right propBtn" href="corporate-clients.html"><span><i class="fa fa-bolt" style="text-align:left;"></i>&nbsp;visit</span></a>	
+						</center>
+					</div>
+				</div>
+			</div>
+		
+			<div class="propContnr">
+				<div class="prop">
+					<center><img src="images/splhp-japan-2017_05_04_06_36_13.jpg"/></center>
+					<div class="textHding clear">
+						<center>
+							<div style="margin-top: 10px;">
+								<div class="vrLin"></div>
+								<p class="hdng">ECO FREINDLY</p>
+							</div>
+							<p class="para">The cool greenness with its numerous species of native alpine flora is a balm for the dust - weary soul.</p>
+							<a class="them_btn theme_bg_color pull-right propBtn" href="corporate-clients.html"><span><i class="fa fa-bolt" style="text-align:left;"></i>&nbsp;visit</span></a>						
+						</center>
+					</div>
+				</div>
+			</div>
+		
+			<div class="propContnr" id="prop1">
+				<div class="prop">
+					<center><img src="images/splhp-goa-2017_05_04_06_36_13.jpg"/></center>
+					<div class="textHding">
+						<center>
+							<div style="margin-top: 10px;">
+								<div class="vrLin"></div>
+								<p class="hdng">NATURAL FEEL</p>
+							</div>
+							<p class="para">Furnished with exquisite style; with a mini bar, telephone and cable television.</p>
+							<a class="them_btn theme_bg_color pull-right propBtn" href="corporate-clients.html"><span><i class="fa fa-bolt" style="text-align:left;"></i>&nbsp;visit</span></a>
+						</center>
+					</div>
+				</div>
+			</div>	
+		</section>			
+	</div>
+
+
+		<script>
+			onece=0;
+			$(window).scroll(function() {
+				var scroll = $(window).scrollTop();
+				var getElmy = $('#animateStrt').offset();
+				 scrlMatch = getElmy.top;
+				  
+			   if (scroll > scrlMatch-400){
+				
+			   if(onece==0){
+					$(".prop1").fadeIn();
+					$(".prop1").animate({left: "850px"},1000,'swing');
+					onece++;
+					}
+					 
+			   }
+				
+			});	
+		</script>
+	
+		<section class="fram_width clear galerySec">
+			<div class="head fram_width"><h1 class="head">Luxury Living in the Lap of Himalayas</h1></div>
+			<p>Rediscover yourself in the serene mountains of Kasauli and Manali at Baikunth Resort.</p>
+									<figure class="mrProp">
+							<img src="http://res.cloudinary.com/the-perch/image/upload/w_564,h_400,c_fill/reputize/property/2017-05-11_11-46-27.jpg" class="img img-responsive" alt="Baikunt Manali - Luxury Suite" title="Baikunt Manali - Luxury Suite" />
+							
+							<div class="mrPropOrley"></div>
+							<div class="mrPropOrleyHovr"></div>
+							<h3 class="titleHead h3Txt them_bdr_clor">Baikunth Magnolia, Man...</h3>
+							
+							<div class="imgpara" style="font-size:14px !important;"><p>Rediscover yourself in the serene landscape of Baikunth Magnolia in Manali, the land of gods, one of the most spectacular Indian hill stations. The cool greenness with its numerous species of native alpine flora is a balm for the dust - weary soul. Adjoining a Deodar forest, Baikunth Magnolia is a haven of tranq......</div>
+							
+							<a class="them_btn theme_bg_color pull-right prop2Btn" href="baikunth-magnolia-manali.html"><span><i class="fa fa-bolt"></i>&nbsp;&nbsp;Vist this</span></a>
+						</figure>
+									<figure class="mrProp">
+							<img src="http://res.cloudinary.com/the-perch/image/upload/w_564,h_400,c_fill/reputize/property/2017-05-11_14-03-01.jpg" class="img img-responsive" alt="Baikunt Kasauli -  The  Gallery Seating" title="Baikunt Kasauli -  The  Gallery Seating" />
+							
+							<div class="mrPropOrley"></div>
+							<div class="mrPropOrleyHovr"></div>
+							<h3 class="titleHead h3Txt them_bdr_clor">Baikunth Resort, Kasau...</h3>
+							
+							<div class="imgpara" style="font-size:14px !important;"><p>Rediscover yourself in the serene mountains of Kasauli at Baikunth Resort, one of the calmest &amp; cleanest Indian hill stations. The greenery of numerous native alpine flora species is a balm for dust - weary souls.</p>......</div>
+							
+							<a class="them_btn theme_bg_color pull-right prop2Btn" href="baikunth-resort-kasauli.html"><span><i class="fa fa-bolt"></i>&nbsp;&nbsp;Vist this</span></a>
+						</figure>
+						<br>
+		</section>
+		
+	
+		<script>
+			$('.mrProp').mouseenter(function(){
+				$('.imgpara').css({'transition':'0.8s', '-webkit-transition-delay': '0.4s'}); 
+				$('.mrProp .them_btn').css({'transition':'0.8s', '-webkit-transition-delay': '0.4s'}); 
+				$('.pric').css({'transition':'0.9s'}); 
+			});
+		</script>	
+	
+		<script>
+			$('.mrProp').mouseleave(function(){
+				$('.imgpara').css({'transition':'0.2s'}); 
+				$('.pric').css({'transition':'0.35s'}); 
+				$('.mrProp .them_btn').css({'transition':'0.2s'});
+			});
+		</script>
+	  
+		<script>
+			var myIndex = 0;
+			carousel();
+			var numItems = $('.mySlides');
+			var itemsLnth = $('.mySlides').length;
+			function carousel() 
+				{  
+					$('.mySlides').each(function()
+						{
+						  $(this).fadeOut();
+						});
+					myIndex++;
+					
+					if (myIndex > itemsLnth) {myIndex = 1}
+					<!-- alert(myIndex-1); -->
+					$('.mySlides').eq(myIndex-1).fadeIn(2000);
+					setTimeout(carousel, 9000);
+				}
+		</script>
+		
+		<hr>
+		<section class="reviv clear fram_width" id="review">
+			<div class="wrapq1">
+				<div class="staticTxt">
+					<p style="color:#d7930f;font-size:25px;">Testimonials</p>
+					<h2 class="rHead">Customer Service is our Motto!</h2>
+				</div>
+				
+				<center>
+					<div class="botm">
+						<div class="RCircle flot_lft">
+						</div>
+						<hr class="hedingHr flot_lft">
+						<div class="RCircle flot_rt"></div>
+					</div>
+				</center>
+				
+				<section class="animate" >
+					 <div class= " mySlides2">
+						<p class="quote"><i class="fa fa-quote-left ">&nbsp;</i>&nbsp; Very Homely Place with Helpful and Friendly Staff  <br>
+						&nbsp;<i class="fa fa-quote-right "></i></p>
+						<div class="userPic" style="background:url(images/user1.jpg);background-position:center center;background-size: 200px 200px;background-repeat: no-repeat;"></div>
+						<p class="testUname">Mr. Vijay Divecha</p>
+						<i class="fa fa-circle" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+					 </div>
+					 
+					 <div class= "mySlides2 ">
+						<p class="quote"><i class="fa fa-quote-left ">&nbsp;</i>&nbsp; Excellent.Far exceeded our expectations!!! &nbsp;<i class="fa fa-quote-right "></i></p>
+						<div class="userPic" style="background:url(images/user2.jpg);background-position:center center;background-size: 200px 200px;background-repeat: no-repeat;"></div>
+						<p class="testUname">Mr. Amit Mahajan</p>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>					
+						<i class="fa fa-circle-o" aria-hidden="true"></i>					
+					 </div>
+					 
+					 <div class= " mySlides2">
+						<p class="quote"><i class="fa fa-quote-left ">&nbsp;</i>&nbsp; Really nice place to stay!!!  &nbsp;<i class="fa fa-quote-right "></i></p>
+						<div class="userPic" style="background:url(images/user3.jpg);background-position:center center;background-size: 200px 200px;background-repeat: no-repeat;"></div>
+						<p class="testUname">Mr. Sayed J</p>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+					 </div>
+					 
+					 <div class= " mySlides2">
+						<p class="quote"><i class="fa fa-quote-left ">&nbsp;</i>&nbsp; Very good Service Apartments  &nbsp;<i class="fa fa-quote-right "></i></p>
+						<div class="userPic" style="background:url(images/user2.jpg);background-position:center center;background-size: 200px 200px;background-repeat: no-repeat;"></div>
+						<p class="testUname">Ms. Anna Streiter</p>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle-o" aria-hidden="true"></i>
+						<i class="fa fa-circle" aria-hidden="true"></i>
+					 </div>
+				</section>
+			</div>
+		</section>
+		<br>
+		<script>
+			var myIndex2 = 0;
+			TestimonialsAnimate();
+			var itemsLnth2 = $('.mySlides2').length;
+			function TestimonialsAnimate() {  
+				$('.mySlides2').each(function()
+				{
+					  $(this).fadeOut();
+				});
+				myIndex2++;
+				
+				if (myIndex2 > itemsLnth2) {myIndex2 = 1}
+				
+				$('.mySlides2').eq(myIndex2-1).fadeIn(1000);
+				 setTimeout(TestimonialsAnimate, 3000);
+			}
+		</script>
+							<div class="footerTopImg"></div>
+					<section class="footer " id="animate3">
+						<div class="overley"></div>	
+						<div class="navLnkLst">
+							<div class="ftrCntnt clear">
+								<div class="propContnr2">
+									<div class="prop">
+										<h3 class="themTxtColor2" style="padding-left:10px;font-size: 15px;">QUICK LINKS</h3>
+										<ul class="footerList">
+											<li><a href="/">Home</a></li>
+											<li><a href="/corporate-clients.html">Corprate Guest</a></li>
+											<li><a href="/japanese-guests.html">Japanese Guests</a></li>
+											<li><a href="/medical-tourist.html">Medical Tourist</a></li>
+										</ul>
+									</div>				
+								</div>
+
+								<div class="propContnr2">
+									<div class="prop">
+										<h3 class="themTxtColor2" style="padding-left:10px;font-size: 15px;">VALUABLE CLIENTS<h3>
+										<ul class="footerList">
+											<li><a href="#">Our Blog</a></li>
+											<li><a href="/our-clients.html">Our  Clients</a></li>
+											<li><a href="/book-now.html">Book Now</a></li>
+											<li><a href="/policies.html">Privacy Policies & Terms</a></li>
+										</ul>
+									</div>				
+								</div>
+								<div class="propContnr2 ftrSeprater">
+									<h3 class="themTxtColor2" style="font-size: 15px;">Contact details</h3>
+									<div class="prop">
+										<div class="colorWite"><p>Baikunth Resort, Kasauli: Village Chabbal, P.O. Garkhal, Tehsil - Kasauli, District - Solan, Himachal Pradesh - 173201, 9857166230 / 7807266230 / 9459494151 / 9459494152 , Email: ireservations@baikunth.com</p></div>
+										<div class="colorWite"><p>Baikunth Magnolia, Manali: Circuit House Road, The Mall, Manali, Himachal Pradesh - 175131,  +9816792888 & 9459494161, Email: reservations@baikunth.com</p></div>
+										
+									</div>				
+								</div>
+							</div>
+						</div>
+						<p class="ftrCpyRt">&copy; Copyright 2014-2016 | All Rights Reserved | Powered by <span class="themTxtColor2"><b>NODAL</b></span> |Our Blog</p>
+					</section>
+					
+					<!-- Html for the top dropdown form for all pages -->
+					<div class="topDropForm">
+						<div class="topDropFormOvly">
+							<div class="fram_width topDropFormCntnr">
+								<div class="hire NoBg">
+									<div class="hire_form NoBg">
+										<form>
+											<div>
+												<div class="myinputGrp">
+													<label>Your Name</label>
+													<input type='text' class="frnInput" />
+												</div>
+												
+												<div class="myinputGrp">
+													<label>Email</label>
+													<select class="frnInput" style="margin: 0px 0px;">
+														<option></option>
+														<option>Web Designer</option>
+													</select>
+												</div>
+											</div>
+											
+											<div>
+												<div class="myinputGrp">
+													<label>Your Email</label>
+													<input type="email" style="width: 100%;" class="frnInput" />
+												</div>
+												
+												<div class="myinputGrp">
+													<label>Phone Number</label>
+													<input type="text" class="frnInput" style="width: 100%;"/>
+												</div>
+											</div>
+											
+											<div>
+												<div class="myinputGrp">
+													<label>Your Email</label>
+													<input type="email" style="width: 100%;" class="frnInput" />
+												</div>
+												
+												<div class="myinputGrp">
+													<label>Phone Number</label>
+													<input type="text" class="frnInput" style="width: 100%;"/>
+												</div>	
+											</div>
+											
+											<div>
+												<input type="submit" class="them_btn theme_bg_color pull-right bttoms" value="Continue >"></input>
+											</div>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>	
+					</div>
+				
+				<script>
+					$('.myinputGrp > input,.myinputGrp > select,.myinputGrp > label').focus(function(){
+						$(this).prev().css({'bottom':'20px','font-size':'12px','color':'#106cc8'},100);
+						$(this).css({'border-color':'#106cc8','border-width': '2px'})
+						$(this).blur(function(){
+							if($(this).val()==''){
+								$(this).prev().css({'bottom':'5px','font-size':'16px','color':'#525252'},100);
+								$(this).css({'border-color':'#dd2c00','border-width': '1px'});					
+							};
+						});
+					});
+				</script>
+				
+				<script>
+					$(document).mouseup(function (e)
+					{   var containr = $("#dropForm");
+						var containr2 = $(".topDropForm");
+						if ((!containr.is(e.target) && (containr.has(e.target).length === 0))
+						&& (!containr2.is(e.target) && (containr2.has(e.target).length === 0))){
+							if($('.topDropForm').css('display')=='block'){
+							togleStats++;
+							$(".topDropForm").fadeOut();
+							}
+						}
+					});
+				</script>
+				
+				<script>
+					var togleStats =1;
+					$("#dropForm").click(function() {			
+						togleStats++;
+						 if ($('.topDropForm').css('display')=='none'){
+						 $('html, body').animate({					
+							 scrollTop: $("#topID").offset().top
+						 }, 700);
+						 $('.topDropForm').delay(720).slideDown();
+						return false;
+						}else{
+							$('.topDropForm').fadeOut();
+						}
+					});
+				</script>
+			
+	</body>
+</html>		

@@ -54,7 +54,8 @@
 					<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css"> 
 					<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
 					<script src="js/jquery-3.1.1.min.js"></script>
-					<script src="js/bootstrap.min.js"></script>	  
+					<script src="js/bootstrap.min.js"></script>	 
+
 				</head>
 				
 				<body id="topID">

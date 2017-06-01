@@ -1,7 +1,3 @@
-
-
-
- 
 			<!DOCTYPE html>
 			<html lang="en">
 				
@@ -43,14 +39,14 @@
 				</head>
 				
 				<body id="topID">
-					<div >
+				<div>
 					<div class="navbr">
 						<div class="myNav fram_width">
 							<a href="/"><div class="logo   flotLft">
 								<img src="images/baikunhlogo.png" />
 							</div></a>
 							
-							<div class="ffrc flotRt homeContct w230px text_upper mrgn_top" id="dropForm">
+							<div class="ffrc flotRt homeContct w230px text_upper mrgn_top" id="dropForm" onclick="notifyMe()">
 								<a class="them_btn theme_bg_color"><span><i class="fa fa-bolt"></i>&nbsp;Book NOW</span></a>
 							</div>
 							
@@ -438,6 +434,36 @@
 							$('.topDropForm').fadeOut();
 						}
 					});
+				</script>
+				
+				<script>
+					// request permission on page load
+						document.addEventListener('DOMContentLoaded', function () {
+						  if (!Notification) {
+							alert('Desktop notifications not available in your browser. Try Chromium.'); 
+							return;
+						  }
+
+						  if (Notification.permission !== "granted")
+							Notification.requestPermission();
+						});
+
+						function notifyMe() {
+						  if (Notification.permission !== "granted")
+							Notification.requestPermission();
+						  else {
+							var notification = new Notification('Notification title', {
+							  icon: 'http://www.theperch.in/images/logo.png',
+							  body: "Hey there! We have great deal for you CLICK to visit",
+							});
+
+							notification.onclick = function () {
+							  window.open("http://stackoverflow.com/a/13328397/1269037");      
+							};
+
+						  }
+
+						}
 				</script>
 			
 		</div>

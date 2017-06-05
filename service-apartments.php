@@ -3,7 +3,7 @@
 ?>
 
 <?php
-	$selmeta = "select * from metaTags where filename='$filename'";
+	$selmeta = "select * from metaTags where filename='resorts-in-manali'";
 	$selmetaquery = mysql_query($selmeta);
 	
 	$metadata = mysql_fetch_array($selmetaquery);
@@ -21,7 +21,7 @@
 
 <?php
 	$tableName = "city_url";
-	$conditions = "cityUrl='$filename' && status='Y' and customerID='2'";
+	$conditions = "cityUrl='resorts-in-manali' && status='Y' and customerID='2'";
 	$servaptdata = sqlqueryfetch($tableName,$conditions);
 	$cityname = $servaptdata['cityName'];
 	$typ_nam = $servaptdata['property_type'];

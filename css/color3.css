@@ -1,6 +1,6 @@
 /*  header footer color */
 .theme_bg_color{
-	background-color:#917e4a ! important;
+    background: linear-gradient(141deg, rgb(133, 92, 18) 0%, rgb(106, 70, 16) 51%, rgb(174, 125, 36) 75%) ! important;
 }
 
 .them_bdr_clor{
@@ -8,7 +8,7 @@
 }
 
 .theme_txt_color{
-	color:#917e4a ! important;
+	color:#000 ! important;
 }
 .footer_bg_color{
 	background-color:#917e4a;
@@ -21,7 +21,7 @@
 }
 
 .them_btn:after {
-    color: #917e4a;
+    color: #ae7d24;
 }
 
 
@@ -46,12 +46,12 @@
 
 .headTab{
 	padding: 10px;
-	border-left:10px solid #917e4a;
+    background: linear-gradient(141deg, rgb(31, 27, 28) 0%, rgb(118, 75, 4) 51%, rgb(29, 9, 1) 75%);	
 }
 
 .clock {
 	font-size: 70px;
-	color:#917e4a;
+	color:#d6c18a;
 }
 
 .them_color{
@@ -60,11 +60,11 @@
 
 
 .qaActiv{
-	background: #917e4a;
+	background:linear-gradient(141deg, rgb(31, 27, 28) 0%, rgb(118, 75, 4) 51%, rgb(29, 9, 1) 75%);
 }
 
 .navbar-nav > .active {
-	background:#917e4a ! important;
+	background:#000 ! important;
 } 
 
 
@@ -96,5 +96,5 @@
 }
 
 .NoBg .hire_form input[type="email"], input[type="text"], select {
-	border-bottom: solid 2px #917e4a;
+	/*border-bottom: solid 2px #917e4a; */
 }

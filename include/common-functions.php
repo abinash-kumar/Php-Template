@@ -61,7 +61,7 @@
 				<body id="topID">
 					<div class="navbr">
 						<div class="myNav fram_width">
-							<a href="<?php SITE_URL_PATH; ?>/"><div class="logo   flotLft">
+							<a href=""><div class="logo   flotLft">
 								<img src="images/baikunhlogo.png" />
 							</div></a>
 							
@@ -70,7 +70,7 @@
 							</div>
 							
 							<ul class="flotLft navLst">
-								<li><a href="<?php SITE_URL_PATH; ?>/about-us.html">About Us<hr></a>
+								<li><a href="about-us.html">About Us<hr></a>
 									<div class="dorpDwn">
 										<a href="<?php SITE_URL_PATH; ?>/contact-us.html">Contact Us</a>
 										<a href="<?php SITE_URL_PATH; ?>/food.html">Food & Beverages</a>
@@ -83,8 +83,8 @@
 								
 								<li><a href="">Hotels in Himachal<hr></a>
 									<div class="dorpDwn">
-										<a href="<?php SITE_URL_PATH; ?>/resorts-in-manali.html">Hotels in Manali</a>
-										<a href="<?php SITE_URL_PATH; ?>/resorts-in-kasauli.html">Hotels in Kasauli</a>
+										<a href="service-apartments.php">Hotels in Manali</a>
+										<a href="service-apartments.php">Hotels in Kasauli</a>
 									</div>
 								</li>
 								

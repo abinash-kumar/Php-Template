@@ -80,6 +80,9 @@ ul {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
+.buttons{
+	outline:none ! important;
+}
 
 .buttons_invert:hover {
 
@@ -1627,7 +1630,7 @@ background:#fff;
 .TopPropImg{
 	margin-top:84px;
 	border-bottom: 1px solid #cfb58f;
-    height: 560px;
+    height: 530px;
 	width:100%;
 	position:relative;
 }
@@ -2273,6 +2276,7 @@ a:hover {
 	width:47%;
 	float:left;
 	margin:15px;
+	cursor:pointer;
 }
 
 .mrProp img{
@@ -2318,7 +2322,7 @@ a:hover {
 }
 
 .mrProp:hover .mrPropOrleyHovr{
-    background: rgba(0, 0, 0, 0.49);
+	background: #36281b;;
 }
 .mrProp:hover .imgpara{
 	opacity:1;
@@ -3746,14 +3750,99 @@ height: 475px;
 }
 
 .slidesjs-navigation {
-	display:flex;
-	justify-content:center;
-	align-items:center;
-	width:55px;
-	background:#000;
-	color:#fff ! important;
-	text-decoration:none ! important;
+    display: flex ! important;
+    justify-content: center;
+    align-items: center;
+    width: 65px;
+    font-size: 12px ! important;
+    padding: 5px 10px;
+    background: #000;
+    color: #fff ! important;
+    text-decoration: none ! important;
 }
 #section2{
 	margin-top: 60px;
+}
+
+
+.flip {
+  -moz-transform: scaleX(-1);    /* Gecko */
+  -o-transform: scaleX(-1);      /* Opera */
+  -webkit-transform: scaleX(-1); /* Webkit */
+  transform: scaleX(-1);         /* Standard */
+  filter: FlipH;                 /* IE 6/7/8 */
+}
+
+
+.awardBtm{
+}
+
+.awardBtm ul {
+	margin:20px 0;
+	list-style:none;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	position: relative;	
+}
+
+.awardBtm ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 135px;
+    width: 260px;
+    background: #f1deab;
+    margin: 0px 15px;
+}
+
+.awrdOvly{
+	-webkit-transform: scale(0);
+	position:absolute;
+	display:flex;
+	color:#fff;
+	text-align:center;
+	justify-content:center;
+	align-items:center;
+	width:150px;
+	height:150px;
+	background:#36281b;
+	transition: .15s;
+
+}
+
+.awardBtm ul li:hover .awrdOvly{
+	-webkit-transform: scale(1);
+	/* border-radius:0%;	 */
+}
+
+.awardBtm ul li img{
+	width:150px;
+	height:150px;
+}
+
+.awrdCntnr{
+	position:relative;
+	width:150px;
+	height:150px;
+}
+
+.videoSec{
+	width:60%;
+	margin:auto;
+	cursor:pointer;
+	background:#fff;
+	text-align:center;
+	transition:0.3s;
+}
+
+.videoSec:hover{
+	background:#36281b;
+	color:#f1deab;
+}
+
+.videoSec i {
+	display:block;
+	font-size:100px;	
 }
